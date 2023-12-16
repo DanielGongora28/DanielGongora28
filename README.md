@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hello there 👋
+
+## 💁‍♂️  About me
+- 👨‍🎓 I am an Industrial Engineer
+- 🖥️ I am interested in Data Science, Data Engineering, Computer Vision, AI and Business Inteligence.
+- 🏫 I’m currently waiting my graduation date: `Industrial Engineer` at Antioquia University
+- 👀 Always looking forward to learn new `technologies and data applications in business world`
+- 🇨🇴
+
+## 🛠️ Skills 🛠️
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
+
+ <img src="https://cdn.safe.com/wp-content/uploads/sites/2/2023/03/27112124/databricks-icon.svg" alt="javascript" width="60" height="60"/>  <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="javascript" width="60" height="60"/> 
+
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="javascript" width="60" height="60"/> 
+
+<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="javascript" width="50" height="30" align='mid'/>
+
+
 
 <!--
 **DanielGongora28/DanielGongora28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
