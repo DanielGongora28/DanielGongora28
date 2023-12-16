@@ -12,7 +12,7 @@
 
  <img src="https://cdn.safe.com/wp-content/uploads/sites/2/2023/03/27112124/databricks-icon.svg" alt="javascript" width="60" height="60"/>  <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="javascript" width="60" height="60"/> 
 
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="javascript" width="60" height="60"/> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="javascript" width="60" height="60"/> <img src="https://assets-global.website-files.com/636e4df90ab43e34728154f6/637e124f9f3c795f301f031c_ApacheSpark.svg" alt="javascript" width="60" height="60"/> 
 
 <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="javascript" width="50" height="30" align='mid'/>
 
