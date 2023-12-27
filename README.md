@@ -5,7 +5,7 @@
 - 🖥️ I am interested in Data Science, Data Engineering, Computer Vision, AI and Business Inteligence.
 - 🏫 I’m currently waiting my graduation date: `Industrial Engineer` at Antioquia University
 - 👀 Always looking forward to learn new `technologies and data applications in business world`
-- 🇨🇴
+- 📍 Colombia
 
 ## 🛠️ Skills 🛠️
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
