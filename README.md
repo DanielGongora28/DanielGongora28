@@ -2,8 +2,7 @@
 
 ## 💁‍♂️  About me
 - 👨‍🎓 I am an Industrial Engineer
-- 🖥️ I am interested in Data Science, Data Engineering, Computer Vision, AI and Business Inteligence.
-- 🏫 I’m currently waiting my graduation date: `Industrial Engineer` at Antioquia University
+- 🖥️ I am interested in Data Science, Data Engineering, Computer Vision, AI, Business Inteligence, and Project Management focus on Agile.
 - 👀 Always looking forward to learn new `technologies and data applications in business world`
 - 📍 Colombia
 
